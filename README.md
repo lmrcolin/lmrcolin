@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am currently a Computer Science student at the *
 - 🎓 **Major**: Computer Science at UNAM (Facultad de Ciencias)
 - 🖥️ **Currently Learning**: 
   - Programming Languages: C, C++, Python, Java, Rust, Haskell
-  - Databases: MySQL, PostgreSQL, SQLite
+  - Databases: MySQL, SQLite
   - Version Control: Git, GitHub
   - Other: Linux, LaTeX, Machine Learning basics
 - 🎨 **Interests**: 
