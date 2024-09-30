@@ -24,6 +24,5 @@ Welcome to my GitHub profile! I am currently a Computer Science student at the *
 ## Get in Touch
 
 - ✉️ **Email**: [luismanuelrc@ciencias.unam.mx](reyescolinluism@gmail.com)
-- 🏢 **LinkedIn**: [Luis Reyes](https://www.linkedin.com/in/luis-reyes-653951326/)
 
 I’m always open to collaborating on interesting projects or learning new things. Feel free to reach out!
