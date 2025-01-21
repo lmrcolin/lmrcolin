@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I am currently a Computer Science student at the *
 
 ## Get in Touch
 
-- [✉️ **Email** ](reyescolinluism@gmail.com)
+- [✉️ **Email** ](mailto:reyescolinluism@gmail.com)
 
 I’m always open to collaborating on interesting projects or learning new things. Feel free to reach out!
